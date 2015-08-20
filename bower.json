@@ -1,0 +1,20 @@
+{
+  "name": "imooc_example",
+  "version": "0.1.0",
+  "authors": [
+    "wjcgithub <wjc163@sina.cn>"
+  ],
+  "description": "a duang tooltip",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
